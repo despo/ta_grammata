@@ -4,7 +4,7 @@
   <title><![CDATA[Τα γράμματα]]></title>
   <link href="http://despo.github.io/ta_grammata/atom.xml" rel="self"/>
   <link href="http://despo.github.io/ta_grammata/"/>
-  <updated>2014-04-24T13:22:30+01:00</updated>
+  <updated>2014-04-24T21:21:01+01:00</updated>
   <id>http://despo.github.io/ta_grammata/</id>
   <author>
     <name><![CDATA[Δέσπω & Γιώργος Πενταρά]]></name>
@@ -30,7 +30,10 @@
 <p>Μετα τιμής<br/>
 Μαργαρίτα Χριστοφή</p>
 
-<p><img src="http://despo.github.io/ta_grammata/images/1958/270558.jpg" width="600" title="γράμμα πρώτη σελίδα" alt="images"></p>
+<div id="gallery" class=""> <div class="gallery-row"> 
+ <a href='http://despo.github.io/ta_grammata/images/1958/270558.jpg' data-ngthumb="/images/1958/270558.jpg"></a>
+ </div> </div>
+
 ]]></content>
   </entry>
   
